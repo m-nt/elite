@@ -1,2 +1,4 @@
-# elite
-For one and only, TFreak
+# elite.c
+## For one and only, TFreak
+
+dione$ ./elite -p I found an old program by TFreak in my sources and thought I'd share it, well | F0</|\||) 4|\| 0|_|) PR0@R4|\/| BY 7FR34|< ||\| |\/|Y 50</R<35 4|\||) 7|-|0</@|-|7 ||) 5|-|4R3 |7 |/\|3|_|_ it was crashing so I fixed it up a little bit but found out that he left out the |7 |/\|45 <R45|-|||\|@ 50 | F|><3|) |7 </P 4 |_|77|_3 B|7 B</7 F0</|\||) 0</7 7|-|47 |-|3 |_3F7 0</7 7|-|3 N in the alphabet which is very peculiar, tfreak had a host called november.jaded.net about a decade ago and he must have had a fascination with the letter N |\| ||\| 7|-|3 4|_P|-|4B37 |/\||-||<|-| |5 \/3RY P3<</|_|4R 7FR34|< |-|4|) 4 |-|057 <4|_|_3|) |\|0\/3|\/|B3RJ4|)3|)|\|37 4B0</7 4 |)3<4|)3 4@0 4|\||) |-|3 |\/|</57 |-|4\/3 |-|4|) 4 F45<||\|47|0|\| |/\||7|-| 7|-|3 |_3773R |\| something I'll possibly always remember since he died last year RIP 50|\/|37|-|||\|@ ||_|_ P055|B|_Y 4|_|/\|4Y5 R3|\/|3|\/|B3R 5||\|<3 |-|3 |)|3|) |_457 Y34R R|P TFreak wrote this program back at an age of 16 and I just kept the source of this when he shared it with me.. 7FR34|< |/\|R073 7|-||5 PR0@R4|\/| B4<|< 47 4|\| 4@3 0F 4|\||) | J</57 |<3P7 7|-|3 50</R<3 0F 7|-||5 |/\||-|3|\| |-|3 5|-|4R3|) |7 |/\||7|-| |\/|3
